@@ -1,5 +1,5 @@
 # hello_world
-Testing out github
+Testing out github.
 
 Moon. Tacos. Earth.
 Me eat food...
